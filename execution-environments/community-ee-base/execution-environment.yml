@@ -20,3 +20,5 @@ dependencies:
       version: 4.1.0
     - name: ansible.windows
       version: 2.3.0
+    - name: community.general
+      version: 9.1.0
